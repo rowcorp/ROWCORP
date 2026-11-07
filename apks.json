@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Emergencia QR",
+    "version": "0.9",
+    "description": "Aplicación de prueba para Android ARM64.",
+    "file": "apks/EmergenciaQR-0.9-ARM64.apk"
+  }
+]
